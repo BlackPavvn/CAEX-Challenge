@@ -1,7 +1,3 @@
-
-```
-Confidencial
-```
 ```
 Diccionario de Datos – Eventos
 Ver. 20231206 - 01
